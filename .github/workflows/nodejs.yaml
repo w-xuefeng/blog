@@ -18,12 +18,13 @@ jobs:
       - name: 3. install hexo...
         run: |
           npm install hexo-cli -g
-          npm install
+          npm install pnpm -g
+          pnpm install
           
       - name: 4. hexo generate public files...
         run: |
-          npm run clean
-          npm run build
+          pnpm run clean
+          pnpm run build
           cp ./CNAME ./public/CNAME
           cp ./README.md ./public/README.md
 
