@@ -189,8 +189,8 @@ toc:
 sns:
     email: xuefeng@wangxuefeng.com.cn
     facebook:
-    twitter: "https://twitter.com/XueFeng_W"
-    googleplus: "https://plus.google.com/103648995569548189496"
+    twitter:
+    googleplus:
     weibo: "https://weibo.com/feuxw"
     instagram:
     tumblr:
@@ -203,12 +203,12 @@ sns:
 
 # SNS Share Switch
 sns_share:
-    twitter: true
-    facebook: true
-    googleplus: true
+    twitter: false
+    facebook: false
+    googleplus: false
     weibo: true
     linkedin: false
-    qq: true
+    qq: false
     telegram: false
 
 # Sidebar Customize
