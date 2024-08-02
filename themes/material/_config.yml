@@ -324,7 +324,7 @@ search:
 # Available value:
 #     baidu | google | cnzz
 analytics:
-    google_site_id: "UA-109928914-1"
+    google_site_id: "G-BMGMBGMH2X"
     baidu_site_id:
     cnzz_site_id:
 
