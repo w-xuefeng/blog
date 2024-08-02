@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: boXue·Fengke
+title: 雪与峰
 subtitle: Xuefeng's blog
 description:
 author: w-xuefeng
@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://blog.wangxuefeng.com.cn
+url: https://xuefeng.is-a.dev
 root: /
 permalink: archives/:title.html
 permalink_defaults: :title.html
