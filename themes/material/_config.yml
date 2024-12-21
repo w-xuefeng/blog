@@ -7,9 +7,9 @@ head:
     # favicon: "/img/favicon_16.ico"
     # high_res_favicon: "/img/favicon_32.ico"
     # apple_touch_icon: "/img/favicon_32.ico"
-    favicon: "/img/kcalb_logo_nobg.png"
-    high_res_favicon: "/img/kcalb_logo_nobg.png"
-    apple_touch_icon: "/img/kcalb_logo_nobg.png"
+    favicon: "/img/sky-feuxw.png"
+    high_res_favicon: "/img/sky-feuxw.png"
+    apple_touch_icon: "/img/sky-feuxw.png"
     keywords:
     site_verification:
         google: google0da443a51f3ca324
@@ -73,7 +73,7 @@ background:
 
 # Images Settings
 img:
-    logo: "/img/kcalb_logo_nobg.png"
+    logo: "/img/sky-feuxw.png"
     avatar: "https://pub.wangxuefeng.com.cn/asset/defaultHead/avatar.png"
         #"/img/avatar.png"
     daily_pic: "https://pub.wangxuefeng.com.cn/asset/img/bg35.jpg"
