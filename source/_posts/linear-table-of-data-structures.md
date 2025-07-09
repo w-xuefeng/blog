@@ -3,7 +3,7 @@ title: 数据结构之单链表
 date: 2018-04-01 12:00:00
 categories: 技术贴 | 数据结构
 tags: DataStructures
-thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/linearTableOfDataStructures/thumbnail.png
+thumbnail: https://pub.tangyuan.space/asset/blogthumbnail/linearTableOfDataStructures/thumbnail.png
 ---
 ### 单链表节点类型定义
 

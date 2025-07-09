@@ -3,7 +3,7 @@ title: 编译原理知识点小总结
 date: 2018-03-11 12:00:00
 categories: 技术贴 | 总结类
 tags: summary
-thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/Summaryofcompilingprinciple/thumbnail.png
+thumbnail: https://pub.tangyuan.space/asset/blogthumbnail/Summaryofcompilingprinciple/thumbnail.png
 ---
 
 # 编译原理基础知识 Q & A
@@ -44,7 +44,7 @@ thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/Summaryofcompiling
 
 - 辅助阶段（贯穿始终）： 符号表管理，错误处理
 
-![逻辑阶段](https://pub.wangxuefeng.com.cn/asset/blogthumbnail/Summaryofcompilingprinciple/ljjd.jpg)
+![逻辑阶段](https://pub.tangyuan.space/asset/blogthumbnail/Summaryofcompilingprinciple/ljjd.jpg)
 
 ## Q5.自己遇到的词法、语法、语义错误有哪些？
 
@@ -134,7 +134,7 @@ thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/Summaryofcompiling
 
 	>后缀分别是ε、只含最后一个字符的子串、只含最后两个字符的子串、只含最后3个字符的子串、……、含最后n个字符的子串
 
-- 子串: ![n(n+1)/2](https://pub.wangxuefeng.com.cn/asset/blogthumbnail/Summaryofcompilingprinciple/nD2.jpg)+1个
+- 子串: ![n(n+1)/2](https://pub.tangyuan.space/asset/blogthumbnail/Summaryofcompilingprinciple/nD2.jpg)+1个
 
 	>长度为0的子串1个，长度为1的子串n个，长度为2的子串n－1个，长度为3的子串n－2个，……，长度为n－1的子串2个，长度为n的子串1个
 

@@ -3,7 +3,7 @@ title: 使用分治法和大整数求斐波那契数列的前n项
 date: 2017-11-27 22:05:15
 categories: 技术贴 | 算法类
 tags: algorithm
-thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/feibo/thumbnail.jpg
+thumbnail: https://pub.tangyuan.space/asset/blogthumbnail/feibo/thumbnail.jpg
 ---
 
 
@@ -12,7 +12,7 @@ thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/feibo/thumbnail.jp
  - 目的：使用 ```分治法``` 和 ```大整数``` 求斐波那契数列的前n项。
  - 思路：使用数组存储大整数，将求斐波那契数列的第n项转换为求矩阵幂的运算。
  - 公式如下：
-   ![function](https://pub.wangxuefeng.com.cn/asset/blogthumbnail/feibo/feibo0.png)
+   ![function](https://pub.tangyuan.space/asset/blogthumbnail/feibo/feibo0.png)
 
 # 引用头文件
 
@@ -319,7 +319,7 @@ thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/feibo/thumbnail.jp
 # 测试截图
 
 
-![feibo](https://pub.wangxuefeng.com.cn/asset/blogthumbnail/feibo/feibo1.png)
+![feibo](https://pub.tangyuan.space/asset/blogthumbnail/feibo/feibo1.png)
 
-![feibo](https://pub.wangxuefeng.com.cn/asset/blogthumbnail/feibo/feibo2.png)
+![feibo](https://pub.tangyuan.space/asset/blogthumbnail/feibo/feibo2.png)
 

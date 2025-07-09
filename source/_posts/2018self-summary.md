@@ -3,7 +3,7 @@ title: 2018自我总结
 date: 2018-12-31 01:22:15
 categories: 流水账 | 总结类
 tags: self-summary
-thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/2018selfSummary/thumbnail.png
+thumbnail: https://pub.tangyuan.space/asset/blogthumbnail/2018selfSummary/thumbnail.png
 ---
 
 时光总是在不经意间溜走。
@@ -25,7 +25,7 @@ thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/2018selfSummary/th
 
 2018年11月2日，这天是我离职的日子，也是我们设计前端组团建的日子。我们leader说，是为我践行，我很开心。水足饭饱后，办完手续，我默默的走出了公司。离开了北京，这个伤心而又向往的地方。
 
-![netease](https://pub.wangxuefeng.com.cn/asset/blogthumbnail/2018selfSummary/netease.jpg)
+![netease](https://pub.tangyuan.space/asset/blogthumbnail/2018selfSummary/netease.jpg)
 
 回到学校后，开始着手毕设和大创。每天过着重复的生活，eating、sleeping、coding。。。
 

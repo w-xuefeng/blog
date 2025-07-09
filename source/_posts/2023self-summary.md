@@ -3,7 +3,7 @@ title: 2023年, 逆水行舟
 date: 2024-01-07 20:36:00
 categories: 流水账 | 总结类
 tags: self-summary
-thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/2023selfSummary/thumbnail.jpg
+thumbnail: https://pub.tangyuan.space/asset/blogthumbnail/2023selfSummary/thumbnail.jpg
 ---
 
 转眼间，时间来到了2024年。回忆我的2023，真的是充满变化与转折的一年。纵观这一年，可以分为上、中、下三个阶段来总结。

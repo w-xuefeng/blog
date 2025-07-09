@@ -3,7 +3,7 @@ title: 2017自我总结-时光飞逝,回头看看,抬头望望
 date: 2017-12-31 19:54:15
 categories: 流水账 | 总结类
 tags: self-summary
-thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/2017selfSummary/thumbnail.png
+thumbnail: https://pub.tangyuan.space/asset/blogthumbnail/2017selfSummary/thumbnail.png
 ---
 
 # 时光飞逝
@@ -26,25 +26,25 @@ thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/2017selfSummary/th
 
 	- 开发完成“[校园书屋](http://bookzone.wangxuefeng.com.cn)”网站并且小范围内运营了一段时间
 
-	![bookzone](https://pub.wangxuefeng.com.cn/asset/blogthumbnail/2017selfSummary/bookzone.png)
+	![bookzone](https://pub.tangyuan.space/asset/blogthumbnail/2017selfSummary/bookzone.png)
 
 - 2.2017年下半年搭建完成自己的个人博客[boXue·Fengke](https://blog.wangxuefeng.com.cn)
 
 	- 犹豫了很久，最终决定从一开始的```wordpress```换为```Node.js + Hexo```的静态博客系统，并且采用```material```主题
 
-	![blog](https://pub.wangxuefeng.com.cn/asset/blogthumbnail/2017selfSummary/blog.png)
+	![blog](https://pub.tangyuan.space/asset/blogthumbnail/2017selfSummary/blog.png)
 
 - 3.在大三的课程内容中，完成了计算机图形学的大作业
 
 	- 基于```Vue.js``` + ```Canvas 2D```的简易画板[Draw](http://draw.wangxuefeng.com.cn)
 
-	![draw](https://pub.wangxuefeng.com.cn/asset/blogthumbnail/2017selfSummary/draw.png)
+	![draw](https://pub.tangyuan.space/asset/blogthumbnail/2017selfSummary/draw.png)
 
 - 4.同样在大三的课程内容中，完成了操作系统课程设计
 
 	- 基于```Vue.js```的动态页面置换算法[PRA](http://pra.wangxuefeng.com.cn)
 
-	![draw](https://pub.wangxuefeng.com.cn/asset/blogthumbnail/2017selfSummary/pra.png)
+	![draw](https://pub.tangyuan.space/asset/blogthumbnail/2017selfSummary/pra.png)
 
 - 5.2017年上半年，开发完成了iYoungon APP，并投入阳光网站内部使用，下半年一直在维护，且已完成了6个版本迭代
 
@@ -52,9 +52,9 @@ thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/2017selfSummary/th
 	
 	- 服务端为基于```ThinkPHP 5```  +  ```RESTful API```的数据交互系统
 
-	![iYoungon](https://pub.wangxuefeng.com.cn/asset/blogthumbnail/2017selfSummary/iYoungon.png)
+	![iYoungon](https://pub.tangyuan.space/asset/blogthumbnail/2017selfSummary/iYoungon.png)
 
-	- [原图](https://pub.wangxuefeng.com.cn/asset/blogthumbnail/2017selfSummary/iYoungonSrc.jpg)[2.29MB]
+	- [原图](https://pub.tangyuan.space/asset/blogthumbnail/2017selfSummary/iYoungonSrc.jpg)[2.29MB]
 
 # 抬头望望
 	

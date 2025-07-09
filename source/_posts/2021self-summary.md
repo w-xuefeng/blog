@@ -3,7 +3,7 @@ title: 2021年，人生的转折点
 date: 2022-01-01 22:22:33
 categories: 流水账 | 总结类
 tags: self-summary
-thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/2021selfSummary/thumbnail.jpeg
+thumbnail: https://pub.tangyuan.space/asset/blogthumbnail/2021selfSummary/thumbnail.jpeg
 ---
 
 时间转眼又来到了年末，但疫情仍未结束，口罩又戴满了整整一年。回首这一年，发生了太多太多的事情。
@@ -20,7 +20,7 @@ thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/2021selfSummary/th
 
 时间来到 7 月份。7 月 16 日这天，我度过了在阿里的第365天。
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/2021selfSummary/365inali.jpg" width="100%">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/2021selfSummary/365inali.jpg" width="100%">
 
 8 月份，我要实现 omi 版的 Antd 的宏伟计划只实现了 `icons` 和 `tools`，由于工程太过于浩大，于是便搁置了。
 

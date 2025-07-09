@@ -3,7 +3,7 @@ title: 【从点子到产品】MVP-读书会【Day4】
 date: 2018-08-23 23:47:15
 categories: SU尔不认输 | 产品篇
 tags: MVP
-thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/readbook/thumbnail4-suerfromI2PMVP.png
+thumbnail: https://pub.tangyuan.space/asset/blogthumbnail/readbook/thumbnail4-suerfromI2PMVP.png
 ---
 
 > MVP，王者荣耀的MVP吗？NO，NO，NO。
@@ -66,7 +66,7 @@ thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/readbook/thumbnail
 	<div style="display: flex;justify-content: flex-end;align-items: center;margin-bottom: 1em;">
 	  <span>————</span>
 	  <a href="https://www.jianshu.com/u/06408f56492c" target="_blank" style="display:flex;align-items: center;text-decoration:none;color: #000;">
-		  <img src="https://pub.wangxuefeng.com.cn/asset/defaultHead/sjwxhead.jpg" width="40" height="40" style="margin:0 5px;border-radius: 50%;border:1px solid #1B2B34">
+		  <img src="https://pub.tangyuan.space/asset/defaultHead/sjwxhead.jpg" width="40" height="40" style="margin:0 5px;border-radius: 50%;border:1px solid #1B2B34">
 		  <span style="text-align: right;">SU尔不认输</span>
 	  </a>
 	</div>

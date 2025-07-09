@@ -3,7 +3,7 @@ title: 别了，从遗憾到庸碌的2020
 date: 2021-01-01 22:22:33
 categories: 流水账 | 总结类
 tags: self-summary
-thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/2020selfSummary/thumbnail.png
+thumbnail: https://pub.tangyuan.space/asset/blogthumbnail/2020selfSummary/thumbnail.png
 ---
 
 ## 前言
@@ -26,7 +26,7 @@ thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/2020selfSummary/th
 
 2020 年 6 月下旬，又到了毕业分别的日子。我知道她毕业后就再也不能和她见面了，就跑去学校和她见面，至少能一起拍张毕业照片留念也好。但是，终究没有见到她最后一面，这可能是我 2020 年最大的遗憾吧。以后茫茫人海，不知能否还能相遇。不能在一起，便相忘于江湖吧！
 
-<img src="https://pub.wangxuefeng.com.cn/asset/img/tjcu1.jpg" width="100%" />
+<img src="https://pub.tangyuan.space/asset/img/tjcu1.jpg" width="100%" />
 
 ## 2020 年 下半年，我去了北京。
 
@@ -36,7 +36,7 @@ thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/2020selfSummary/th
 
 2020 年 12 月 19 日 至 20 日，我有幸成为一名第十五届 D2 前端技术论坛的志愿者，参与了两天的论坛直播协助工作。在这里见到了好多技术大佬，就不一一列举了，感兴趣的话可以关注 [D2 前端技术论坛网站](https://www.alibabaf2e.com/)。在现场我看到了前端发展的各种方向，如 `WebAssembly` 的落地实践 , `Serverless` 业务的实践，`前端故障演练`,  `前端智能化实践` 等，还有一个来自阿里云的前端小姐姐讲的 `深入剖析海量数据场景下的用户行为分析方案`，内容超级硬核，将前端的视野扩展到大数据分析领域，当时直播间弹幕直呼 “666”。
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/2020selfSummary/D2.png" width="100%" />
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/2020selfSummary/D2.png" width="100%" />
 
 2020 年下半年，结识了一位 Youngon 的小伙伴，我们从一开始只谈论网站工作，到后来一起玩游戏，一起看电影，成为了很好的小伙伴，就很不错，用 2020 年的网络词语描述叫 `针不戳`。
 

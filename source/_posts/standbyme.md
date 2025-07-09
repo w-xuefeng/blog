@@ -3,7 +3,7 @@ title: 虹- 菅田将晖（《哆啦A梦伴我同行2》主题曲） 空耳版�
 date: 2021-06-17 12:54:15
 categories: 兴趣分享 | 音乐类
 tags: [interest, music, lyric, standByMe]
-thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/standbyme/thumbnail.png
+thumbnail: https://pub.tangyuan.space/asset/blogthumbnail/standbyme/thumbnail.png
 ---
 
 ```

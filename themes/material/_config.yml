@@ -74,9 +74,9 @@ background:
 # Images Settings
 img:
     logo: "/img/sky-feuxw.png"
-    avatar: "https://pub.wangxuefeng.com.cn/asset/defaultHead/avatar.png"
+    avatar: "https://pub.tangyuan.space/asset/defaultHead/avatar.png"
         #"/img/avatar.png"
-    daily_pic: "https://pub.wangxuefeng.com.cn/asset/img/bg35.jpg"
+    daily_pic: "https://pub.tangyuan.space/asset/img/bg35.jpg"
         #"/img/daily_pic.png"
     sidebar_header: "/img/sidebar_header.png"
     random_thumbnail: "/img/random/material-"
@@ -252,7 +252,7 @@ sidebar:
 feeding:
     enable: true
     qrcode:
-        ailpay: "https://pub.wangxuefeng.com.cn/feed/qrcode_onlyqr_feedme_ailpay.png"
+        ailpay: "https://pub.tangyuan.space/feed/qrcode_onlyqr_feedme_ailpay.png"
         wechat: "/img/feed/wx-feed-code.png"
 
 # ---------------------------------------------------------------

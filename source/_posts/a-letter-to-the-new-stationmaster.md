@@ -3,7 +3,7 @@ title: 致新任站长的一封信
 date: 2020-03-04 14:22:00
 categories: 阳光网站  | 一封信
 tags: letter
-thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/a-letter-to-the-new-stationmaster/thumbnail.png
+thumbnail: https://pub.tangyuan.space/asset/blogthumbnail/a-letter-to-the-new-stationmaster/thumbnail.png
 ---
 
 # 致新任站长的一封信
@@ -101,7 +101,7 @@ thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/a-letter-to-the-ne
 
   以上生态系统具体可在 Gitlab 中 Youngon Group 查看。阳光网站的内部生态建设需要网站的每个人共同努力才能完成，希望能够一直传承与接力下去。
 
-  ![YGECOS](https://pub.wangxuefeng.com.cn/asset/img/DeploymentDiagram.png)
+  ![YGECOS](https://pub.tangyuan.space/asset/img/DeploymentDiagram.png)
 
 ##  六、网站账号
 

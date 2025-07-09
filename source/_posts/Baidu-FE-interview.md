@@ -3,7 +3,7 @@ title: 记百度前端一面
 date: 2019-08-06 14:22:00
 categories: 技术贴 | 面试题
 tags: Javascript
-thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/baiduInterview/thumbnail.png
+thumbnail: https://pub.tangyuan.space/asset/blogthumbnail/baiduInterview/thumbnail.png
 ---
 
 2019年7月31日，这天烈日当空，骄阳似火，我孤身前往北京百度科技园，参加百度前端社招面试。
@@ -14,7 +14,7 @@ thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/baiduInterview/thu
 
 <div style="width:100%;display:flex;flex-direction:column;justify-content:center;text-align:center;">
 
-  <img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/baiduInterview/hall.jpg" style="width:100%;max-width:600px;margin: 5px auto;">
+  <img src="https://pub.tangyuan.space/asset/blogthumbnail/baiduInterview/hall.jpg" style="width:100%;max-width:600px;margin: 5px auto;">
 
 </div>
 
@@ -67,9 +67,9 @@ thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/baiduInterview/thu
 
   <div style="width:100%;display:flex;flex-direction:column;justify-content:center;text-align:center;">
 
-    <img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/baiduInterview/vue&react1.png" style="width:100%;max-width:500px;margin: 5px auto;">
+    <img src="https://pub.tangyuan.space/asset/blogthumbnail/baiduInterview/vue&react1.png" style="width:100%;max-width:500px;margin: 5px auto;">
 
-    <img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/baiduInterview/vue&react2.png" style="width:100%;max-width:500px;margin: 5px auto;">
+    <img src="https://pub.tangyuan.space/asset/blogthumbnail/baiduInterview/vue&react2.png" style="width:100%;max-width:500px;margin: 5px auto;">
 
     <p>（图片来自<a href="https://www.jianshu.com/p/b7cd52868e95" target="_blank">vue和react的区别之我见</a>）</p>
 
@@ -91,7 +91,7 @@ thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/baiduInterview/thu
 
   <div style="width:100%;display:flex;flex-direction:column;justify-content:center;text-align:center;">
 
-    <img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/baiduInterview/vue.png" style="width:100%;max-width:500px;margin: 5px auto;">
+    <img src="https://pub.tangyuan.space/asset/blogthumbnail/baiduInterview/vue.png" style="width:100%;max-width:500px;margin: 5px auto;">
     
     <p>（图片来自<a href="https://cn.vuejs.org/v2/guide/reactivity.html" target="_blank">Vue.js 官网 深入响应式原理</a>）</p>
 
@@ -919,7 +919,7 @@ thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/baiduInterview/thu
 
   <div style="width:100%;display:flex;flex-direction:column;justify-content:center;text-align:center;">
 
-    <img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/baiduInterview/modifyProps.png" style="width:100%;max-width:600px;margin: 5px auto;">
+    <img src="https://pub.tangyuan.space/asset/blogthumbnail/baiduInterview/modifyProps.png" style="width:100%;max-width:600px;margin: 5px auto;">
 
   </div>
 

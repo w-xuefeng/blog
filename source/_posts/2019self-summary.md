@@ -3,7 +3,7 @@ title: 时光啊，时光
 date: 2020-01-01 22:22:33
 categories: 流水账 | 总结类
 tags: self-summary
-thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/2019selfSummary/thumbnail.png
+thumbnail: https://pub.tangyuan.space/asset/blogthumbnail/2019selfSummary/thumbnail.png
 ---
 
 当我们专心忙碌在自己的日常生活中时，往往最容易忽略的是时间的流逝，回过神时，却发现时间已经流逝了许久。此时，我们会不禁的感叹 “时间过得好快呀”，也正如孔夫子言 “逝者如斯夫，不舍昼夜”！

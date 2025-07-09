@@ -3,7 +3,7 @@ title: 如何申请 iOS 证书
 date: 2020-05-20 13:14:00
 categories: 技术贴 | iOS 开发
 tags: iOS
-thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/thumbnail.png
+thumbnail: https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/thumbnail.png
 ---
 
 ## 一、账号类型与名词解释
@@ -87,40 +87,40 @@ thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the
 
 在 Mac 上 打开 “钥匙串访问” 程序，一般在 `其他` 中，找不到的话可以在右上角搜索
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/0.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/0.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
 
 然后点击上方钥匙串访问栏->证书助理->从证书颁发机构请求证书…
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/0-1.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/0-1.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
 
 填写一个邮箱地址，选择 “存储到磁盘”，点击继续
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/0-2.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/0-2.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
 
 文件名称为 `CertificateSigningRequest.certSigningRequest`，选择保存位置，点击 “存储” 保存到指定路径下，钥匙串文件就创建完成了。
 
 <div style="width: 100%;display: flex;justify-content: center;flex-wrap: wrap;">
-	<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/0-3.png" style="display:block;margin:0 10px">
-	<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/0-4.png" style="display:block;margin:0 10px">
+	<img src="https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/0-3.png" style="display:block;margin:0 10px">
+	<img src="https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/0-4.png" style="display:block;margin:0 10px">
 </div>
 
 ### 2. 申请证书
 
 登录 苹果开发者网站 `https://developer.apple.com`, 点击 `Account`
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/1-0.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/1-0.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
 
 输入 苹果开发者帐号和密码 登录
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/1-1.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/1-1.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
 
 在左侧菜单栏中或者中间内容区域点击 `Certificates, Identifiers & Profiles` 进入 “证书、ID、描述文件” 管理
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/1-2.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/1-2.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
 
 在证书管理页面，可以看到所有已经申请的证书及描述文件；在 `Certificates`栏目下点击页面的加号来创建一个新的证书：
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/1-3.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/1-3.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
 
 
 如果我们要申请 APP 开发证书，则在 `Software` 栏下选中我们要申请的证书类型， 
@@ -135,51 +135,51 @@ thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the
 	- 选择 **In House and Ad Hoc**
 
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/1-4-software.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/1-4-software.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
 
 如果我们要申请 推送服务 证书，则在 `Service` 栏下选中我们要申请的证书类型
 
 - 开发推送证书选择 `Apple Push Notification service SSL (Sandbox)`
 - 发布推送证书选择 `Apple Push Notification service SSL (Sandbox & Production)`
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/1-4-service.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/1-4-service.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
 
 然后点击 `Continue`：
 
 
 接下来需要用到 步骤1 生成的证书请求文件，也就是钥匙串文件，点击 `Choose File...` 选择刚刚保存到本地的 `CertificateSigningRequest.certSigningRequest` 文件，点击 `Continue` 生成证书文件：
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/1-5.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/1-5.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
 
 生成证书后选择 `Download` 将证书下到本地：
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/1-6.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/1-6.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
 
 ### 3. 创建应用 ID （App ID，Bundle ID）
 
 选择页面的 `Identifiers` 可查看到已申请的所有 App 应用标识，点击页面上的加号来创建一个新的应用标识：
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/3-0.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/3-0.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
 
 选择标识类型为 `App IDs`，然后点击 `Continue`
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/3-1.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/3-1.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
 
 平台选择 `iOS，tvOS，watchOS`，Bundle ID 选择 `Explicit`，在 `Description`中填写描述，然后填写 `Bundle ID`，`Bundle ID` 要保持唯一性，建议填写反域名加应用标识的格式 如：`com.xxx.myappname`， 然后点击 `Continue`
 
 注意：在第三方开发平台中 App 提交云端打包时界面上的 AppID 栏或者在证书配置里填写的就是这个 `Bundle ID`
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/3-2.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/3-2.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
 
 接下来需要选择应用需要使用的服务（如需要使用到消息推送功能，则选择`Push Notifications`），然后点击 `Continue`
 注意：如果 App 要上架 App Store, 用不到的服务一定不要勾选，以免响应审核
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/3-3.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/3-3.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
 
 
 确认后选择提交，回到 `identifiers` 页面即可看到刚创建的应用 ID：
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/3-4.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/3-4.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
 
 
 至此，应用 ID 已经创建完毕。
@@ -190,12 +190,12 @@ thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the
 开发描述文件必须绑定调试设备，只有授权的设备才可以直接安装 App，所以在申请开发描述文件之前，先添加调试的设备，如果已经添加设备，可跳过此步骤。
 在证书管理页面选择 `Devices`，可查看到已添加的所有设备信息，点击页面上的加号来添加一个新设备：
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/4-0.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/4-0.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
 
 
 填写设备名称 和 UDID（设备标识）：
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/4-1.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/4-1.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
 
 
 获取设备UDID方法，将设备连接到电脑，启动 iTunes，点击此区域可切换显示设备的 UDID，右键选择复制，输入完成后，点击 `Continue` 继续完成添加即可；
@@ -206,7 +206,7 @@ thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the
 
 在证书管理页面选择 `Profile`，可查看到已申请的所有描述文件，点击页面上的加号来添加一个新的描述文件：
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/5-0.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/5-0.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
 
 选择我们要创建的描述文件类型，
 
@@ -225,33 +225,33 @@ thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the
 点击`Continue`按钮：
 
 <div style="width: 100%;display: flex;justify-content: center;flex-wrap: wrap;">
-	<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/5-1.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
-	<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/5-1-inhouse.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
+	<img src="https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/5-1.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
+	<img src="https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/5-1-inhouse.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
 </div>
 
 这里要选择 步骤3 创建的 应用 ID （App ID，Bundle ID），点击`Continue`：
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/5-2.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/5-2.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
 
 接下来选择需要绑定的证书，也就是 步骤2 申请的证书， 点击`Continue`：
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/5-3.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/5-3.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
 
 从2020年春季开始，只有具有关联的部署描述的应用ID才有资格生成新的 In House 配置文件。
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/5-3-nocer.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/5-3-nocer.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
 
 如果要创建的是开发描述文件，则要选择授权调试设备，这里建议直接勾选 `Select All`，点击 `Continue`：
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/5-4.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/5-4.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
 
 输入描述文件的名称, 点击 `Generate` 生成描述文件：
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/5-5.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/5-5.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
 
 点击 `Download` 下载保存开发描述文件（文件后缀为 .mobileprovision）
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/5-6.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/5-6.png" width="50%" style="display:block;margin:0 auto;min-width: 280px">
 
 至此，对应的描述文件（.mobileprovision) 创建完成;
 
@@ -269,11 +269,11 @@ thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the
 
 在左边选择 `登录` 和 `我的证书`，找到证书，在证书上面点击鼠标右键，然后在菜单中选择导出证书，如图：
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/6-0.png" style="display:block;margin:0 auto;min-width: 280px">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/6-0.png" style="display:block;margin:0 auto;min-width: 280px">
 
 在弹出页面中指定证书名，点击存储，然后输入证书密码（此密码在第三方开发平台页面输入），点击好，生成 p12 格式证书。
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/how-to-request-the-ios-certificate/6-1.png" style="display:block;margin:0 auto;min-width: 280px">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/how-to-request-the-ios-certificate/6-1.png" style="display:block;margin:0 auto;min-width: 280px">
 
 至此，我们现在 有了 
 

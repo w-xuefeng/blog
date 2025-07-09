@@ -3,7 +3,7 @@ title: 极简编译器原理
 date: 2019-05-15 19:54:15
 categories: 知识分享 | 视频类
 tags: KnowledgeSharing
-thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/minimal-compiler-principle/thumbnail.png
+thumbnail: https://pub.tangyuan.space/asset/blogthumbnail/minimal-compiler-principle/thumbnail.png
 ---
 
 非常生动形象的讲述了编译器原理，对学习编译原理这门课帮助很大。视频分享自 [Bilibili](https://www.bilibili.com/video/av51948975)

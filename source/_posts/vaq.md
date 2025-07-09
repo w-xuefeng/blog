@@ -129,9 +129,9 @@ npm run serve
 ```
 我们首先在 PC 浏览器端查看示例界面，打开默认的地址`http://localhost:8080`，是页面导航页，如下图所示：
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/vaq/1.png" width="100%">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/vaq/1.png" width="100%">
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/vaq/2.png" width="100%">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/vaq/2.png" width="100%">
 
 该页面显示了我们项目中所有的页面配置，点击对应的页面则会跳转（若页面之间有参数传递，则通过页面导航打开将不会传递任何参数）。导航页面仅做为页面结构和样式调试时快速打开对应页面使用，自定义 Loader 中将不会展示本页面。
 
@@ -140,14 +140,14 @@ npm run serve
 - 对应编译后的地址为`indexindex.html`
 - 如下图所示
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/vaq/3.png" width="100%">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/vaq/3.png" width="100%">
 
 - 点击屏幕中的按钮，将跳转到默认的`登录页`
 - `path` 为 `login/index`，
 - 对应编译后的地址为`loginindex.html`
 - 如下图所示
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/vaq/4.png" width="100%">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/vaq/4.png" width="100%">
 
 - 根据提示输入用户名和密码，点击登录，将跳转到默认`应用首页`
 - `path` 为 `home/index`，
@@ -155,14 +155,14 @@ npm run serve
 - 登录后退出应用再次打开，默认保留登录状态，将直接回到本页面
 - 如下图所示
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/vaq/5.png" width="100%">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/vaq/5.png" width="100%">
 
 - 点击任意链接，在自定义 Loader 中将在新窗口打开而PC 浏览器将会直接跳转到默认的`web页面`，并载入网页链接内容
 - `path` 为 `home/web`，
 - 对应编译后的地址为`homeweb.html`
 - 如下图所示
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/vaq/6.png" width="100%">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/vaq/6.png" width="100%">
 
 以上便是所有默认示例页面的展示。示例页面仅仅是向开发者举例页面的开发方式，并不能用在正式项目中，所以开发者应将示例页面删除并新建自己项目的页面，或者直接修改为自己项目的页面。
 

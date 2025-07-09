@@ -36,7 +36,7 @@ tags: Javascript
 ```
 ### 效果预览：
 
-![cssview](https://pub.wangxuefeng.com.cn/asset/blogthumbnail/Oblique-color-block/cssView.png)
+![cssview](https://pub.tangyuan.space/asset/blogthumbnail/Oblique-color-block/cssView.png)
 
 ### Javascript 封装实现
 
@@ -92,7 +92,7 @@ tags: Javascript
 
 ### 效果预览：
 
-![jsview](https://pub.wangxuefeng.com.cn/asset/blogthumbnail/Oblique-color-block/jsView.png)
+![jsview](https://pub.tangyuan.space/asset/blogthumbnail/Oblique-color-block/jsView.png)
 
 [Github](https://github.com/w-xuefeng/O-ColorBlock)
 

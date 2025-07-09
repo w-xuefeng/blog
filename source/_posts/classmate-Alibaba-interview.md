@@ -3,7 +3,7 @@ title: 试做同学的阿里前端一面试题
 date: 2018-04-09 18:47:15
 categories: 技术贴 | 面试题
 tags: Javascript
-thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/classmateAlibabaInterview/thumbnail.png
+thumbnail: https://pub.tangyuan.space/asset/blogthumbnail/classmateAlibabaInterview/thumbnail.png
 ---
 
 ### 【题目1】

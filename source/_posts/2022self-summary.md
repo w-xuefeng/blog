@@ -3,7 +3,7 @@ title: 2022年，似水年华
 date: 2023-01-01 22:22:33
 categories: 流水账 | 总结类
 tags: self-summary
-thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/2022selfSummary/thumbnail.jpg
+thumbnail: https://pub.tangyuan.space/asset/blogthumbnail/2022selfSummary/thumbnail.jpg
 ---
 
 # 前言
@@ -37,13 +37,13 @@ thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/2022selfSummary/th
 2022年8月7日我报考了C1驾驶证，8月18日科目一（考试序号0250），9月13日科目二（7道19号车），9月26日上午科目三（12号车），下午科目三理论考试（考试序号3030），终于在全部科目一把过的情况下于2022年9月26日顺利拿下驾驶证。
 
 # 阳光不在，重新出发
-2022年9月9日，下午16时，天津商业大学阳光网站微信群蹦出一条[“致学长学姐们.pdf”](https://pub.wangxuefeng.com.cn/asset/doc/%E8%87%B4%E5%AD%A6%E9%95%BF%E5%AD%A6%E5%A7%90%E4%BB%AC.pdf)的消息，天津商业大学阳光网站社团正式注销，今后将作为技术部成为天津商业大学学生融媒体中心的一部分。这个消息早在两天前我就知道了，网站从2001年创立至今，已经走过了20多个年头了。这20年来，网站经历了PC网站互联网时代的浪潮、移动终端互联网+的兴起，最终在历史的洪流中被时代所革新。20年来，“阳光网站”早已不在单纯的只代表一个web站点、一个PC网站，而是代表整个 Youngon 大团体及其正在逐步发展的 ECOS 生态系统。我作为YG-ECOS 生态系统的创始者和推动者，看到网站被合并的消息并不意外但还是有一点难过。早在2016年，在学校南区钟楼下的长凳上我就在感叹，“网站终有一天将走向衰落不复存在”，没想到这一天来的这么快。虽然换了一种形式继续存在了下来，但也已经不是原来的 Youngon 了。希望 “技术部” 能够继承 Youngon 的衣钵，乘风破浪，勇往直前，再创 Youngon 辉煌。
+2022年9月9日，下午16时，天津商业大学阳光网站微信群蹦出一条[“致学长学姐们.pdf”](https://pub.tangyuan.space/asset/doc/%E8%87%B4%E5%AD%A6%E9%95%BF%E5%AD%A6%E5%A7%90%E4%BB%AC.pdf)的消息，天津商业大学阳光网站社团正式注销，今后将作为技术部成为天津商业大学学生融媒体中心的一部分。这个消息早在两天前我就知道了，网站从2001年创立至今，已经走过了20多个年头了。这20年来，网站经历了PC网站互联网时代的浪潮、移动终端互联网+的兴起，最终在历史的洪流中被时代所革新。20年来，“阳光网站”早已不在单纯的只代表一个web站点、一个PC网站，而是代表整个 Youngon 大团体及其正在逐步发展的 ECOS 生态系统。我作为YG-ECOS 生态系统的创始者和推动者，看到网站被合并的消息并不意外但还是有一点难过。早在2016年，在学校南区钟楼下的长凳上我就在感叹，“网站终有一天将走向衰落不复存在”，没想到这一天来的这么快。虽然换了一种形式继续存在了下来，但也已经不是原来的 Youngon 了。希望 “技术部” 能够继承 Youngon 的衣钵，乘风破浪，勇往直前，再创 Youngon 辉煌。
 
 <iframe src="//player.bilibili.com/player.html?bvid=BV1yW4y1i7EQ&cid=835166956&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" class="v-iframe"></iframe>
 
 2022年10月22日，我和峰哥、阳仔、汶龙一起驱车去喇叭沟爬山，是这一年中为数不多的一次愉快的外出体验。
 
-<img src="https://pub.wangxuefeng.com.cn/asset/blogthumbnail/2022selfSummary/xf-lbg-20221022.jpeg" alt="xuefeng-labagou-20221022" style="width: 100%;margin: 20px auto; display: block">
+<img src="https://pub.tangyuan.space/asset/blogthumbnail/2022selfSummary/xf-lbg-20221022.jpeg" alt="xuefeng-labagou-20221022" style="width: 100%;margin: 20px auto; display: block">
 
 工作方面，由于我们三路兵线效果不理想，为了降低公司成本，2022年9月初，我们从来广营诚盈中心搬回了望京科技园，还是原来那栋楼但不是原来的那间屋。2022年10月份开始，公司决定更换赛道，大家都逐步开始进入全球雇佣 GTSS 项目中，重新出发，截至 12 月底，依旧在过程中。最终效果如何，一切都要看明年3、4月份。
 # 流水年华，简而言之

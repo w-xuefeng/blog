@@ -3,7 +3,7 @@ title: 岁月静好，后会有期
 date: 2019-06-23 11:30:15
 categories: 生活纪实 | 视频类
 tags: graduation
-thumbnail: https://pub.wangxuefeng.com.cn/asset/blogthumbnail/graduation/thumbnail.png
+thumbnail: https://pub.tangyuan.space/asset/blogthumbnail/graduation/thumbnail.png
 ---
 
 当六月逐渐来临，
