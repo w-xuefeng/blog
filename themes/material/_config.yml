@@ -209,7 +209,7 @@ sidebar:
       link: 'https://xuefeng.is-a.dev'
       icon: person
     Email Me:
-      link: 'mailto: xuefeng@wangxuefeng.com.cn'
+      link: 'mailto:xuefeng@wangxuefeng.com.cn'
       icon: email
   homepage:
     use: true
